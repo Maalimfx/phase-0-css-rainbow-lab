@@ -183,7 +183,7 @@ To give that id some CSS attributes we'll go into `main.css`, select the id, and
 mark its color as red.
 
 ```css
-#red {
+ { red
   /* this selects any elements with the red id */
   border-top-color: #f00;
 }
